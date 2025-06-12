@@ -86,8 +86,9 @@ const HomePage = () => {
             </div>
             <div className="animate-slide-in-right">
               <img
-                src="/public/images/greenleaves.jpg"
+                src="https://img.freepik.com/free-photo/closeup-picture-gardener-s-hands-planting-plant_1150-26607.jpg?ga=GA1.1.1866593843.1749747925&semt=ais_hybrid&w=740"
                 alt="Organic compost farming"
+                style= {{ width: '610px', height: '400px' }}
                 className="rounded-lg shadow-2xl"
               />
             </div>

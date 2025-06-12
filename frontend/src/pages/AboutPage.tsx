@@ -90,8 +90,9 @@ const AboutPage = () => {
             </div>
             <div className="animate-slide-in-right">
               <img
-                src="https://images.pexels.com/photos/4022092/pexels-photo-4022092.jpeg?auto=compress&cs=tinysrgb&w=800"
+                src="public/images/risegreenlogo.jpg"
                 alt="Sustainable farming"
+                style={{ maxWidth: '100%', height: 'auto' }}
                 className="rounded-lg shadow-xl"
               />
             </div>
