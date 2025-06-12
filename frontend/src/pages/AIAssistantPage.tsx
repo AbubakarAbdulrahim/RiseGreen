@@ -26,7 +26,6 @@ const AIAssistantPage = () => {
     "Best time to apply compost?",
     "Organic vs chemical fertilizer?",
     "Soil pH for vegetables?",
-    "Compost for cassava farming?",
     "Rainy season farming tips?"
   ];
 
@@ -190,7 +189,7 @@ const AIAssistantPage = () => {
               </div>
             </div>
 
-            {/* Farming Tips */}
+            {/* Farming Tips 
             <div className="bg-white rounded-2xl shadow-lg p-6">
               <h3 className="text-lg font-semibold text-primary-900 mb-4 flex items-center">
                 <Sparkles className="h-5 w-5 mr-2 text-secondary-500" />
