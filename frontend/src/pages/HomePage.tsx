@@ -86,9 +86,9 @@ const HomePage = () => {
             </div>
             <div className="animate-slide-in-right">
               <img
-                src="public/images/riseleaves.jpg"
+                src="/public/images/greenleaves.jpg"
                 alt="Organic compost farming"
-                className="rounded-md shadow-2xl"
+                className="rounded-lg shadow-2xl"
               />
             </div>
           </div>
